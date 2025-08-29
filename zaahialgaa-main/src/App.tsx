@@ -1163,7 +1163,7 @@ function Logo() {
     <div
       className="w-9 h-9 rounded-2xl text-white grid place-items-center font-bold"
       style={{
-        background: "linear-gradient(135deg, #b87333, #d4a373)", // зэсний градиент
+        background: "linear-gradient(135deg, #b87333, #d4a373)",
       }}
     >
       ✟
